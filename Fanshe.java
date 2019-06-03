@@ -1,3 +1,4 @@
+//反射可以看一下这个blog,https://blog.csdn.net/lwl20140904/article/details/80163880#
 public class Fanshe {  
     public static void main(String[] args) {  
         //第一种方式获取Class对象    
